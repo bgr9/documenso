@@ -61,7 +61,7 @@ export const DocumentDropzone = ({
   });
 
   const heading = {
-    document: disabled ? 'You have reached your document limit.' : 'Add a document',
+    document: disabled ? 'You have reached your document limit.' : 'Ajouter un document',
     template: 'Upload Template Document',
   };
 
